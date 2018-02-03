@@ -10,3 +10,9 @@ Sign: Key size 4096 0.025407
 Verify: Key size 4096 0.029884
 Sign: Key size 2048 0.003379
 Verify: Key size 2048 0.008033
+GEN | Key size: 2048 0.036714
+Sign: Key size 8192 0.003413
+Verify: Key size 8192 0.008478
+GEN | Key size: 2048 0.076891
+Sign: Key size 8192 0.003438
+Verify: Key size 8192 0.007867
